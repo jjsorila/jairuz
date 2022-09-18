@@ -1,0 +1,22 @@
+* {
+    font: "LITHOGRAPH";
+    color: white;
+}
+
+body {
+    background: url("meditate.jpg");
+    align-items: center;
+    text-align: center;
+}
+
+.flex-container {
+    color: white; 
+    display: flex; 
+    justify-content: center;
+    text-align: left;
+}
+
+iframe {
+    width: 500px;
+    height: 500px;
+}
